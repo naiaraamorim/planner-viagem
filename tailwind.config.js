@@ -8,6 +8,9 @@ export default {
     extend: {
       fontFamily: {
         sans:'Inter',
+      },
+      backgroundImage: {
+        imagemFundo: 'url(/fundo.png)'
       }
     },
   },
